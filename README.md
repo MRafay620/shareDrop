@@ -1,9 +1,9 @@
 # 📂 ShareDrop - Real-Time File Sharing Application 🚀
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/shareDrop)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/shareDrop)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/shareDrop?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/shareDrop?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/MRafay620/shareDrop)
+![GitHub contributors](https://img.shields.io/github/contributors/MRafay620/shareDrop)
+![GitHub stars](https://img.shields.io/github/stars/MRafay620/shareDrop?style=social)
+![GitHub forks](https://img.shields.io/github/forks/MRafay620/shareDrop?style=social)
 
 ## 🌟 Project Overview
 ShareDrop is a real-time file sharing application built with modern web technologies to facilitate seamless peer-to-peer file transfers and instant messaging. The application ensures smooth user interaction with real-time updates and an intuitive UI.
